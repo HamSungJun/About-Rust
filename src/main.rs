@@ -13,4 +13,9 @@ fn main() {
         "i think so too".to_string(),
         "this is great thanks very much".to_string(),
     ]);
+    solutions::solution_2114_functional::most_words_found(vec![
+        "alice and bob love leetcode".to_string(),
+        "i think so too".to_string(),
+        "this is great thanks very much".to_string(),
+    ]);
 }
